@@ -1,0 +1,40 @@
+Press ^C at any time to quit.
+package name: (test_react) test_1
+version: (1.0.0) primary
+Invalid version: "primary"
+version: (1.0.0) 1
+Invalid version: "1"
+version: (1.0.0)
+description: first test
+entry point: (index.js) application1
+test command: testing
+git repository: (https://github.com/NQN6-5/test_react.git)
+keywords: app1
+author: dc
+license: (ISC)
+About to write to C:\Users\dac\documents\github\test_react\package.json:
+
+{
+  "name": "test_1",
+  "version": "1.0.0",
+  "description": "first test",
+  "main": "\u0006application1",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NQN6-5/test_react.git"
+  },
+  "keywords": [
+    "app1"
+  ],
+  "author": "dc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NQN6-5/test_react/issues"
+  },
+  "homepage": "https://github.com/NQN6-5/test_react#readme"
+}
+
+

@@ -1,0 +1,22 @@
+{
+  "name": "test_1",
+  "version": "1.0.0",
+  "description": "first test",
+  "main": "\u0006application1",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NQN6-5/test_react.git"
+  },
+  "keywords": [
+    "app1"
+  ],
+  "author": "dc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NQN6-5/test_react/issues"
+  },
+  "homepage": "https://github.com/NQN6-5/test_react#readme"
+}
